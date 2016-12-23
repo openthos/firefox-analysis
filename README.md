@@ -69,10 +69,10 @@ mk_add_options MOZ_OBJDIR=./objdir-all
 
 mk_add_options MOZ_MAKE_FLAGS="-j4"
 
-以上是相关的配置文件的更改。
-
+关闭mozconfig，然后再。
 
 vi mobile/android/confvars.sh
+
 注释掉MOZ_INSTALL_TRACKING（在第49行），否则编译失败。
 
 
