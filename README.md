@@ -86,7 +86,7 @@ vi mobile/android/confvars.sh
 
 大概需要1个小时左右（硬盘较快，40分钟左右；硬盘较慢，则1小时20分钟左右）。
 
-如果是在OPENTHSO chroot ubuntu15下，则直接安装到本机，并可在开始菜单中直接运行。
+如果是在OPENTHOS chroot ubuntu15下，则直接安装到本机，并可在开始菜单中直接运行。
 
 ## 参考链接
 
