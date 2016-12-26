@@ -46,7 +46,7 @@ cd ../
 
 scp lh@192.168.0.180:/home/lh/wjx/sdk.tar.bz .
 
-tar -zxvf sdk.tar.bz
+tar xvf sdk.tar.bz
 
 解压后会在/firefox/Sdk目录下。
 
