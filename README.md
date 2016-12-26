@@ -44,9 +44,9 @@ git checkout -b r49-2016101919 remotes/origin/MOBILE4902_2016101919_RELBRANCH
 
 cd ../
 
-scp lh@192.168.0.180:/home/lh/wjx/sdk.tar.gz .
+scp lh@192.168.0.180:/home/lh/wjx/sdk.tar.bz .
 
-tar -zxvf sdk.tar.gz
+tar -zxvf sdk.tar.bz
 
 解压后会在/firefox/Sdk目录下。
 
